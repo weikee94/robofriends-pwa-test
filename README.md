@@ -1,8 +1,5 @@
-# robofriends-pwa
-Udemy tutorial - adding PWA capabilities to a react app
+# robofriends-pwa-test
 
-To run the project:
+- npm run test
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+- npm run test -- --coverage
